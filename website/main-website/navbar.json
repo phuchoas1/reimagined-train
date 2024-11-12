@@ -3,25 +3,25 @@
         {
             "nav": {
                 "name": "Homepage",
-                "url": "../Homepage"
+                "url": "../homepage"
             }
         },
         {
             "nav": {
                 "name": "About Me",
-                "url": "../About"
+                "url": "../about"
             }
         },
         {
             "nav": {
                 "name": "Portfolio",
-                "url": "../Portfolio"
+                "url": "../portfolio"
             }
         },
         {
             "nav": {
                 "name": "Let&#39;s Contact",
-                "url": "../Contact"
+                "url": "../contact"
             }
         }
     ]
