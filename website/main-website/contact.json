@@ -1,1 +1,18 @@
-
+{
+    "Header": {
+        "title": "wwan - Contact",
+        "description": "Let's work together, Release your ideas to reality",
+        "image": {
+            "url": "",
+            "alt": ""
+        }
+    },
+    "Button": {
+        "Submit": "Submit",
+        "alt": "Press this button that I can know what you want"
+    },
+    "Description": {
+        "title": "wwanname",
+        "gmail": "wwandev@gmail.com"
+    }
+}
