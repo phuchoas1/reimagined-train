@@ -1,1 +1,162 @@
-
+{
+    "Header": {
+        "name": "wwan - Portfolio",
+        "description": "My Works, My Blood, Ny Efforts, My Skibini. Where everything I have, I put all into this site",
+        "thumbnail": {
+            "url": "",
+            "alt": ""
+        }
+    },
+    "Navbar": {
+        "Album1":
+        [
+            {
+                "Album": {
+                    "Banner": {
+                        "url": "",
+                        "alt": "",
+                        "lazy": ""
+                    },
+                    "Disc": {
+                        "url": "",
+                        "alt": "",
+                        "lazy": ""
+                    }
+                }
+            },
+            {
+                "Portfolio": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            },
+            {
+                "Works": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            },
+            {
+                "Works": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            }
+        ],
+        "Album2":
+        [
+            {
+                "Album": {
+                    "Banner": {
+                        "url": "",
+                        "alt": "",
+                        "lazy": ""
+                    },
+                    "Disc": {
+                        "url": "",
+                        "alt": "",
+                        "lazy": ""
+                    }
+                }
+            },
+            {
+                "Portfolio": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            },
+            {
+                "Works": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            },
+            {
+                "Works": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            }
+        ],
+        "Album3":
+        [
+            {
+                "Album": {
+                    "Banner": {
+                        "url": "",
+                        "alt": "",
+                        "lazy": ""
+                    },
+                    "Disc": {
+                        "url": "",
+                        "alt": "",
+                        "lazy": ""
+                    }
+                }
+            },
+            {
+                "Portfolio": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            },
+            {
+                "Works": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            },
+            {
+                "Works": {
+                    "Avatar": {
+                        "url": "",
+                        "alt": ""
+                    },
+                    "Title": "",
+                    "Country": "",
+                    "Client": ""
+                }
+            }
+        ]
+    }
+}
