@@ -1,1 +1,227 @@
-
+{
+    "Header": {
+        "Title": "wwan - About Me",
+        "Description": "This site introduce myself, tell you how I work and my hobby",
+        "Thumbnail": {
+            "url": "",
+            "alt": ""
+        }
+    },
+    "Section1": {
+        "Title": "Have Heart",
+        "Video": {
+            "Video1": {
+                "name": "UI/UX Design",
+                "Description": "Combining Art using Mathematics and Geometry to create aesthetic frame that satisfy the audience's eyes. And extensive experience in Motion Design that enhances user experience. With these two, we create not only an easy to use interface but also effective and aesthetic.",
+                "url": "",
+                "lazy": ""
+            },
+            "Video2": {
+                "name": "Motion Design",
+                "Description": "Not only do I create smooth and eye-catching experiences, I also create professional, fun and engaging animations suitable for promotional videos and YouTube videos. Suitable for startups and agencies around the world",
+                "url": "",
+                "lazy": ""
+            },
+            "Video3": {
+                "name": "Creative Developer",
+                "Description": "As a Motion Designer and UI/UX Designer, programming skills create eye-catching and user-friendly websites (apps by 2025) for companies around the world. Each of my projects is a new land, helping companies attract more users.",
+                "url": "",
+                "lazy": ""
+            }
+        }
+    },
+    "Section2": {
+        "Title": "Viva La Vida",
+        "Description": "With my experience in various design disciplines, I provide innovative solutions and impress users with discovery strategies, research and creative direction. Breaking through the noise of crowded places, it's funny how every day is the same, but when you look back, everything is different."
+    },
+    "Section3": {
+        "Title": ["Stay With Me", "Fukurashi", "Astaga", "Bonjour", "Marc Martel", "Yuri Artiukh", "Yang Zhiyu"],
+        "Description": ["We think it's urgent to have fun and enjoy what we do. And we want to do it with you.", "私たちは、楽しむことと自分たちがしていることを楽しむことが緊急だと思っています。そして、それをあなたと一緒にやりたいです。", "Kami percaya bahwa sangat penting untuk menikmati dan bersenang-senang dengan apa yang kita lakukan. Kami ingin melakukannya bersama Anda.", "Nous estimons qu'il est essentiel de prendre plaisir et de savourer ce que nous faisons. Et nous souhaitons le faire en votre compagnie.", "We think it's urgent to have fun and enjoy what we do. And we want to do it with you", "Ми вважаємо, що надзвичайно важливо отримувати задоволення і насолоджуватися тим, що ми робимо. І ми бажаємо зробити це разом з вами.", "我们认为，享受乐趣和从事我们所做的事情是至关重要的。我们希望能与您共同分享这份乐趣。"],
+        "Image 1": [
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            }
+        ],
+        "Image 2": [
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            }
+        ],
+        "Image 3": [
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            }
+        ],
+        "Image 4": [
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            },
+            {
+                "image": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                }
+            }
+        ]
+    },
+    "Section4": {
+        "Title": "Seven Seas Of Rhye",
+        "Description1": "ABBA - Dancing Queen",
+        "Description2": "Let's work together!",
+        "Timeline": "2024.7.3. — 2024.12.11",
+        "Image": {
+            "url": "",
+            "alt": "Banner"
+        }
+    }
+}
