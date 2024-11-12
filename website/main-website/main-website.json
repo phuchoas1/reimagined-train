@@ -1,1 +1,94 @@
-
+{
+    "Homepage": [
+        {
+            "Section1": {
+                "ĐTK Diego": {
+                    "alt": "wwanname",
+                    "url": "./"
+                },
+                "TextInfinite": ["wwan", "wwanname"],
+                "Spacer": "—",
+                "Description": "#Freelance",
+                "Copyright": "©wwan"
+            },
+            "Section2": {
+                "Icon": {
+                    "Name": "About Me",
+                    "Spacer": "—"
+                },
+                "largeDescription": "I provide creative motion design and UI/UX solutions that help businesses build the impressive and effective user&#39;s experience. With the combination of Art and Strategy, every design always optimize interaction, bring the real value and help your brand stand out in the minds of customers.",
+                "smallDescription": "Through movement, messages come alive. The combination of motion design and code can bring many wonderful frames that help your brand memorable, connect emotionally, and subtly elevate your business."
+            },
+            "TransitionGallery": {
+                "Image1": ["", "", "", ""],
+                "Image2": ["", "", "", ""],
+                "Image3": ["", "", "", ""],
+                "Image4": ["", "", "", ""]
+            },
+            "Portfolio": {
+                "title": "",
+                "description": ""
+            },
+            "Works": {
+                "title": "Works",
+                "Description": "Where I choose the passion works",
+                    "work1": {
+                        "name": "Title1",
+                        "country": "Canada",
+                        "client": "Microsoft"
+                    },
+                    "work2": {
+                        "name": "Title2",
+                        "country": "Singapore",
+                        "client": "Apple"
+                    }
+            },
+            "Slide": {
+                "Person1": {
+                    "message": "",
+                    "job": "",
+                    "image": {
+                        "alt": "",
+                        "url": ""
+                    },
+                    "name": "",
+                    "video": ""
+                },
+                "Person2": {
+                    "message": "",
+                    "job": "",
+                    "image": {
+                        "alt": "",
+                        "url": ""
+                    },
+                    "name": "",
+                    "video": ""
+                },
+                "Person3": {
+                    "message": "",
+                    "job": "",
+                    "image": {
+                        "alt": "",
+                        "url": ""
+                    },
+                    "name": "",
+                    "video": ""
+                },
+                "Person4": {
+                    "message": "",
+                    "job": "",
+                    "image": {
+                        "alt": "",
+                        "url": ""
+                    },
+                    "name": "",
+                    "video": ""
+                }
+            },
+            "Contact": {
+                "Title": "Let&#39;s work together",
+                "alt": "morgh svg"
+            }
+        }
+    ]
+}
