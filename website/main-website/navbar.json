@@ -1,1 +1,28 @@
-
+{
+    "Navbar": [
+        {
+            "nav": {
+                "name": "Homepage",
+                "url": "../Homepage"
+            }
+        },
+        {
+            "nav": {
+                "name": "About Me",
+                "url": "../About"
+            }
+        },
+        {
+            "nav": {
+                "name": "Portfolio",
+                "url": "../Portfolio"
+            }
+        },
+        {
+            "nav": {
+                "name": "Let&#39;s Contact",
+                "url": "../Contact"
+            }
+        }
+    ]
+}
