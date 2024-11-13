@@ -20,8 +20,20 @@
         },
         {
             "nav": {
-                "name": "Let's Contact",
+                "name": "Contact",
                 "url": "../contact"
+            }
+        },
+        {
+            "nav": {
+                "name": "Work Expirement",
+                "url": "../expirement"
+            }
+        },
+        {
+            "nav": {
+                "name": "Archive",
+                "url": "../archive"
             }
         }
     ]
