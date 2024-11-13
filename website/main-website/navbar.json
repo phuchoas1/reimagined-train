@@ -3,36 +3,42 @@
         {
             "nav": {
                 "name": "Homepage",
+                "alt": "The main points of all site below are summarized by me on this website.",
                 "url": "../"
             }
         },
         {
             "nav": {
                 "name": "About Me",
+                "alt": "This is where I introduce myself and the services I will be doing.",
                 "url": "../about"
             }
         },
         {
             "nav": {
                 "name": "Portfolio",
+                "alt": "My efforts towards my career.",
                 "url": "../portfolio"
             }
         },
         {
             "nav": {
                 "name": "Contact",
+                "alt": "Let's work together."
                 "url": "../contact"
             }
         },
         {
             "nav": {
                 "name": "Work Expirement",
+                "alt": "Watch, Learn, Study, Expirement"
                 "url": "../expirement"
             }
         },
         {
             "nav": {
                 "name": "Archive",
+                "alt": "These are the places where my previous work is stored.",
                 "url": "../archive"
             }
         }
