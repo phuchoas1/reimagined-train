@@ -1,7 +1,7 @@
 {
     "Header": {
         "Title": "wwan - Homepage",
-        "Description": "Designer & Artist & Developer. I provide creative motion design and UI/UX solutions that help businesses build the impressive and effective user&#39;s experience. With the combination of Art and Strategy, every design always optimize interaction, bring the real value and help your brand stand out in the minds of customers.",
+        "Description": "Designer & Artist & Developer. I provide creative motion design and UI/UX solutions that help businesses build the impressive and effective user's experience. With the combination of Art and Strategy, every design always optimize interaction, bring the real value and help your brand stand out in the minds of customers.",
         "Thumbnail": {
             "alt": "",
             "url": ""
@@ -24,7 +24,7 @@
                     "Name": "About Me",
                     "Spacer": "—"
                 },
-                "largeDescription": "I provide creative motion design and UI/UX solutions that help businesses build the impressive and effective user&#39;s experience. With the combination of Art and Strategy, every design always optimize interaction, bring the real value and help your brand stand out in the minds of customers.",
+                "largeDescription": "I provide creative motion design and UI/UX solutions that help businesses build the impressive and effective user's experience. With the combination of Art and Strategy, every design always optimize interaction, bring the real value and help your brand stand out in the minds of customers.",
                 "smallDescription": "Through movement, messages come alive. The combination of motion design and code can bring many wonderful frames that help your brand memorable, connect emotionally, and subtly elevate your business."
             },
             "TransitionGallery": {
@@ -94,7 +94,7 @@
                 }
             },
             "Contact": {
-                "Title": "Let&#39;s work together",
+                "Title": "Let's work together",
                 "alt": "morgh svg"
             }
         }
