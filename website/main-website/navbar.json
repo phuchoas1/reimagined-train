@@ -24,14 +24,14 @@
         {
             "nav": {
                 "name": "Contact",
-                "alt": "Let's work together."
+                "alt": "Let's work together.",
                 "url": "../contact"
             }
         },
         {
             "nav": {
                 "name": "Work Expirement",
-                "alt": "Watch, Learn, Study, Expirement"
+                "alt": "Watch, Learn, Study, Expirement",
                 "url": "../expirement"
             }
         },
