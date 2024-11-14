@@ -9,7 +9,7 @@
         },
         {
             "nav": {
-                "name": "About Me",
+                "name": "About",
                 "alt": "This is where I introduce myself and the services I will be doing.",
                 "url": "../about"
             }
@@ -23,9 +23,9 @@
         },
         {
             "nav": {
-                "name": "Contact",
-                "alt": "Let's work together.",
-                "url": "../contact"
+                "name": "Archive",
+                "alt": "These are the places where my previous work is stored.",
+                "url": "../archive"
             }
         },
         {
@@ -37,9 +37,9 @@
         },
         {
             "nav": {
-                "name": "Archive",
-                "alt": "These are the places where my previous work is stored.",
-                "url": "../archive"
+                "name": "Contact",
+                "alt": "Let's work together.",
+                "url": "../contact"
             }
         }
     ]
