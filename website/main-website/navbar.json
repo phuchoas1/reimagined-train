@@ -23,9 +23,9 @@
         },
         {
             "nav": {
-                "name": "Archive",
-                "alt": "These are the places where my previous work is stored.",
-                "url": "../archive"
+                "name": "Contact",
+                "alt": "Let's work together.",
+                "url": "../contact"
             }
         },
         {
@@ -37,10 +37,10 @@
         },
         {
             "nav": {
-                "name": "Contact",
-                "alt": "Let's work together.",
-                "url": "../contact"
+                "name": "Archive",
+                "alt": "These are the places where my previous work is stored.",
+                "url": "../archive"
             }
-        }
+        },
     ]
 }
