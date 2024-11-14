@@ -2,7 +2,7 @@
     "Navbar": [
         {
             "nav": {
-                "name": "Homepage",
+                "name": "Home",
                 "alt": "The main points of all site below are summarized by me on this website.",
                 "url": "../"
             }
