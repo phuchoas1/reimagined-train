@@ -2,16 +2,16 @@
     "Navbar": [
         {
             "nav": {
-                "name": "About Me",
-                "alt": "This is where I introduce myself and the services I will be doing.",
-                "url": "../about"
+                "name": "Homepage",
+                "alt": "The main points of all site below are summarized by me on this website.",
+                "url": "../"
             }
         },
         {
             "nav": {
-                "name": "Homepage",
-                "alt": "The main points of all site below are summarized by me on this website.",
-                "url": "../"
+                "name": "About Me",
+                "alt": "This is where I introduce myself and the services I will be doing.",
+                "url": "../about"
             }
         },
         {
