@@ -1,8 +1,8 @@
 {
     "Header": {
-        "name": "wwan - Portfolio",
-        "description": "My Works, My Blood, Ny Efforts, My Skibini. Where everything I have, I put all into this site",
-        "thumbnail": {
+        "Title": "wwan - Portfolio",
+        "Description": "My Works, My Blood, Ny Efforts, My Skibini. Where everything I have, I put all into this site",
+        "Thumbnail": {
             "url": "",
             "alt": ""
         }
