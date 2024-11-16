@@ -7,24 +7,19 @@
             "alt": ""
         }
     },
-    "Navbar": {
-        "Album1":
-        [
-            {
-                "Album": {
-                    "Banner": {
-                        "url": "",
-                        "alt": "",
-                        "lazy": ""
-                    },
-                    "Disc": {
-                        "url": "",
-                        "alt": "",
-                        "lazy": ""
-                    }
-                }
-            },
-            {
+    "Navbar": [
+        {
+            "Album": {
+                "Banner": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                },
+                "Disc": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                },
                 "Portfolio": {
                     "Avatar": {
                         "url": "",
@@ -33,10 +28,8 @@
                     "Title": "Radio Ra Ga",
                     "Country": "Live Aid",
                     "Client": "Myself"
-                }
-            },
-            {
-                "Works": {
+                },
+                "Works1": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
@@ -44,10 +37,8 @@
                     "Title": "In the Future",
                     "Country": "Everywhere",
                     "Client": "Everything"
-                }
-            },
-            {
-                "Works": {
+                },
+                "Works2": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
@@ -57,106 +48,88 @@
                     "Client": "All at Once"
                 }
             }
-        ],
-        "Album2":
-        [
-            {
-                "Album": {
-                    "Banner": {
-                        "url": "",
-                        "alt": "",
-                        "lazy": ""
-                    },
-                    "Disc": {
-                        "url": "",
-                        "alt": "",
-                        "lazy": ""
-                    }
-                }
-            },
-            {
+        },
+        {
+            "Album": {
+                "Banner": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                },
+                "Disc": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                },
                 "Portfolio": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "",
-                    "Country": "",
-                    "Client": ""
-                }
-            },
-            {
-                "Works": {
+                    "Title": "Samsung A54",
+                    "Country": "Korean",
+                    "Client": "My phone"
+                },
+                "Works1": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "",
-                    "Country": "",
-                    "Client": ""
-                }
-            },
-            {
-                "Works": {
+                    "Title": "My final project in this year",
+                    "Country": "To let myself focus on creating YouTube content, Studying Artist and My life",
+                    "Client": "For everyone"
+                },
+                "Works2": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "",
-                    "Country": "",
+                    "Title": "Creating Video Birthday",
+                    "Country": "for My Younger Brother",
                     "Client": ""
                 }
             }
-        ],
-        "Album3":
-        [
-            {
-                "Album": {
-                    "Banner": {
-                        "url": "",
-                        "alt": "",
-                        "lazy": ""
-                    },
-                    "Disc": {
-                        "url": "",
-                        "alt": "",
-                        "lazy": ""
-                    }
-                }
-            },
-            {
+        },
+        {
+            "Album": {
+                "Banner": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                },
+                "Disc": {
+                    "url": "",
+                    "alt": "",
+                    "lazy": ""
+                },
                 "Portfolio": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "",
-                    "Country": "",
-                    "Client": ""
-                }
-            },
-            {
-                "Works": {
+                    "Title": "Hiep Hoi",
+                    "Country": "Nha",
+                    "Client": "Moi Nguoi Moi Thu"
+                },
+                "Works1": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "",
-                    "Country": "",
-                    "Client": ""
-                }
-            },
-            {
-                "Works": {
+                    "Title": "Hiep Hoi Ngu",
+                    "Country": "Hiep Hoi Sieu Anh Hung",
+                    "Client": "Hiep Hoi Sung"
+                },
+                "Works2": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "",
-                    "Country": "",
-                    "Client": ""
+                    "Title": "Hiep Hoi Cac Con",
+                    "Country": "Hiep Hoi Ban",
+                    "Client": "Hiep Hoi Lang Quen"
                 }
             }
-        ]
-    }
+        }
+    ]
 }
