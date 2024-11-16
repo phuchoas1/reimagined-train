@@ -1,8 +1,8 @@
 {
     "Header": {
-        "title": "wwan - Contact",
-        "description": "Let's work together, Release your ideas to reality",
-        "image": {
+        "Title": "wwan - Contact",
+        "Description": "Let's work together, Release your ideas to reality",
+        "Thumbnail": {
             "url": "",
             "alt": ""
         }
