@@ -25,8 +25,8 @@
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "Radio&nbsp;Ra&nbsp;Ga",
-                    "Country": "Live&nbsp;Aid",
+                    "Title": "Radio Ra Ga",
+                    "Country": "Live Aid",
                     "Client": "Myself"
                 },
                 "Works1": {
@@ -34,7 +34,7 @@
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "In&nbsp;the&nbsp;Future",
+                    "Title": "In the Future",
                     "Country": "Everywhere",
                     "Client": "Everything"
                 },
@@ -43,7 +43,7 @@
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "Let's&nbsp;work&nbsp;together",
+                    "Title": "Let's work together",
                     "Country": "Everyone",
                     "Client": "All at Once"
                 }
@@ -66,9 +66,9 @@
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "Samsung&nbsp;A54",
+                    "Title": "Samsung A54",
                     "Country": "Korean",
-                    "Client": "My&nbsp;phone"
+                    "Client": "My phone"
                 },
                 "Works1": {
                     "Avatar": {
@@ -109,25 +109,25 @@
                     },
                     "Title": "Hiep Hoi",
                     "Country": "Nha",
-                    "Client": "Moi&nbsp;Nguoi&nbsp;Moi&nbsp;Thu"
+                    "Client": "Moi Nguoi Moi Thu"
                 },
                 "Works1": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "Hiep&nbsp;Hoi&nbsp;Ngu",
-                    "Country": "Hiep&nbsp;Hoi&nbsp;Sieu&nbsp;Anh&nbsp;Hung",
-                    "Client": "Hiep&nbsp;Hoi&nbsp;Sung"
+                    "Title": "Hiep Hoi Ngu",
+                    "Country": "Hiep Hoi Sieu Anh Hung",
+                    "Client": "Hiep Hoi Sung"
                 },
                 "Works2": {
                     "Avatar": {
                         "url": "",
                         "alt": ""
                     },
-                    "Title": "Hiep&nbsp;Hoi&nbsp;Cac&nbsp;Con",
-                    "Country": "Hiep&nbsp;Hoi&nbsp;Ban",
-                    "Client": "Hiep&nbsp;Hoi&nbsp;Lang&nbsp;Quen"
+                    "Title": "Hiep Hoi Cac Con",
+                    "Country": "Hiep Hoi Ban",
+                    "Client": "Hiep Hoi Lang Quen"
                 }
             }
         }
