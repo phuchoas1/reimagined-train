@@ -1,67 +1,55 @@
 {
-    "Footer": [
-        {
-            "Banner": [
-                {
-                    "image": "",
-                    "alt": "banner",
-                    "Call": "Let's see my blog"
-                }
-            ]
-        },
-        {
-            "Social": [
-                {
-                    "name": "YouTube",
-                    "url": ""
-                },
-                {
-                    "name": "Blog",
-                    "url": ""
-                },
-                {
-                    "name": "Instagram",
-                    "url": ""
-                },
-                {
-                    "name": "X",
-                    "url": ""
-                }
-            ]
-        },
-        {
-            "Introduce": "My Social"
-        },
-        {
-            "Email": "wwandev@gmail.com"
-        },
-        {
-            "EasterEgg": [
-                "Kirby and Wandle Dee",
-                "Show Everything, You show nothing",
-                "Somebody to Love",
-                "Pigstep &#40;Stero Mix&#41;",
-                "Bohemian Rhapsody",
-                "The Wonder Of You",
-                "Could It Be I&#39;m Falling In Love",
-                "Games People Play",
-                "Love Train",
-                "I&#39;ll Be Around",
-                "Let&#39;s Groove",
-                "Boogie Wonderland",
-                "Stand By Me",
-                "Ain&#39;t No Mountain High Enough",
-                "Nile Rodgers & CHIC - Good Times",
-                "Kirby Air ride OST Item Bounce but it sounds Old and Vintage",
-                "NCS x Geometry Dash Mix | NCS - Copyright Free Music",
-                "otherside",
-                "C418 - Haunt Muskie &#40;Minecraft Volume Beta&#41;",
-                "Aaron Cherof - Precipice",
-                "Double Life &#40;From Despicable Me 4&#41;",
-                "Jojo&#39;s Bizarre Adventure Stone Ocean FINAL ED - Roundabout Ending",
-                "Roses and Muskets",
-                "Being Kind to Beginners &#91;Planning & Game Design&#93;"
-            ]
-        }
+  "Footer": {
+    "Banner": {
+      "image": "",
+      "alt": "banner",
+      "Call": "Let's see my blog"
+    },
+    "Social": [
+      {
+        "name": "YouTube",
+        "url": ""
+      },
+      {
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "name": "Instagram",
+        "url": ""
+      },
+      {
+        "name": "X",
+        "url": ""
+      }
+    ],
+    "Introduce": "My Social",
+    "Email": "wwandev@gmail.com",
+    "EasterEgg": [
+      "Kirby and Wandle Dee",
+      "Show Everything, You show nothing",
+      "Somebody to Love",
+      "Pigstep (Stero Mix)",
+      "Bohemian Rhapsody",
+      "The Wonder Of You",
+      "Could It Be I'm Falling In Love",
+      "Games People Play",
+      "Love Train",
+      "I'll Be Around",
+      "Let's Groove",
+      "Boogie Wonderland",
+      "Stand By Me",
+      "Ain't No Mountain High Enough",
+      "Nile Rodgers & CHIC - Good Times",
+      "Kirby Air ride OST Item Bounce but it sounds Old and Vintage",
+      "NCS x Geometry Dash Mix | NCS - Copyright Free Music",
+      "otherside",
+      "C418 - Haunt Muskie (Minecraft Volume Beta)",
+      "Aaron Cherof - Precipice",
+      "Double Life (From Despicable Me 4)",
+      "Jojo's Bizarre Adventure Stone Ocean FINAL ED - Roundabout Ending",
+      "Roses and Muskets",
+      "Being Kind to Beginners [Planning & Game Design]"
     ]
+  }
 }
