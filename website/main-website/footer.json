@@ -1,6 +1,7 @@
 {
-        "Footer": {
-        "Menu": ["Homepage", "About Me", "Portfolio", "Contact", "Archive", "Work Experiments"],
+    "Footer": {
+    "Menu": ["Homepage", "About Me", "Portfolio", "Contact", "Archive", "Work Experiments"],
+    "Main": {
         "Banner": {
             "image": "",
             "alt": "banner",
@@ -38,4 +39,5 @@
             "Being Kind to Beginners &#91;Planning & Game Design&#93;"
         ]
     }
+}
 }
