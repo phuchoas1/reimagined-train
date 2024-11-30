@@ -7,7 +7,24 @@
         },
         "Social": {
             "Title": "My social",
-            "Social": ["Youtube", "Blog", "Instagram", "X"],
+            "real": [
+                {
+                    "name": "YouTube",
+                    "url": ""
+                },
+                {
+                    "name": "Blog",
+                    "url": ""
+                },
+                {
+                    "name": "Instagram",
+                    "url": ""
+                },
+                {
+                    "name": "X",
+                    "url": ""
+                }
+            ],
             "Gmail": "wwandev@gmail.com"
         },
         "Title": [
