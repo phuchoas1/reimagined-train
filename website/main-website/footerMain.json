@@ -36,8 +36,8 @@
     ],
     "FooterDes": [
         {
-            "gmail": "wwandev@gmail.com",
-            "Title": "My social"
+            "gmail": "@Gmail: wwandev",
+            "href": "mailto:wwandev@gmail.com"
         }
     ],
     "EasterEgg": [
