@@ -41,29 +41,77 @@
         }
     ],
     "EasterEgg": [
-        "Kirby and Wandle Dee",
-        "Show Everything, You show nothing",
-        "Somebody to Love",
-        "Pigstep &#40;Stero Mix&#41;",
-        "Bohemian Rhapsody",
-        "The Wonder Of You",
-        "Could It Be I&#39;m Falling In Love",
-        "Games People Play",
-        "Love Train",
-        "I&#39;ll Be Around",
-        "Let&#39;s Groove",
-        "Boogie Wonderland",
-        "Stand By Me",
-        "Ain&#39;t No Mountain High Enough",
-        "Nile Rodgers & CHIC - Good Times",
-        "Kirby Air ride OST Item Bounce but it sounds Old and Vintage",
-        "NCS x Geometry Dash Mix | NCS - Copyright Free Music",
-        "otherside",
-        "C418 - Haunt Muskie &#40;Minecraft Volume Beta&#41;",
-        "Aaron Cherof - Precipice",
-        "Double Life &#40;From Despicable Me 4&#41;",
-        "Jojo&#39;s Bizarre Adventure Stone Ocean FINAL ED - Roundabout Ending",
-        "Roses and Muskets",
-        "Being Kind to Beginners &#91;Planning & Game Design&#93;"
+        {
+            "Title": "Kirby and Wandle Dee"
+        },
+        {
+            "Title": "Show Everything, You show nothing"
+        },
+        {
+            "Title": "Somebody to Love"
+        },
+        {
+            "Title": "Pigstep (Stero Mix)"
+        },
+        {
+            "Title": "Bohemian Rhapsody"
+        },
+        {
+            "Title": "The Wonder Of You"
+        },
+        {
+            "Title": "Could It Be I'm Falling In Love"
+        },
+        {
+            "Title": "Games People Play"
+        },
+        {
+            "Title": "Love Train"
+        },
+        {
+            "Title": "I'll Be Around"
+        },
+        {
+            "Title": "Let's Groove"
+        },
+        {
+            "Title": "Boogie Wonderland"
+        },
+        {
+            "Title": "Stand By Me"
+        },
+        {
+            "Title": "Ain't No Mountain High Enough"
+        },
+        {
+            "Title": "Nile Rodgers & CHIC - Good Times"
+        },
+        {
+            "Title": "Kirby Air ride OST Item Bounce but it sounds Old and Vintage"
+        },
+        {
+            "Title": "NCS x Geometry Dash Mix | NCS - Copyright Free Music"
+        },
+        {
+            "Title": "otherside"
+        },
+        {
+            "Title": "C418 - Haunt Muskie (Minecraft Volume Beta)"
+        },
+        {
+            "Title": "Aaron Cherof - Precipice"
+        },
+        {
+            "Title": "Double Life (From Despicable Me 4)"
+        },
+        {
+            "Title": "Roundabout"
+        },
+        {
+            "Title": "Roses and Muskets"
+        },
+        {
+            "Title": "Being Kind to Beginners [Planning & Game Design]"
+        }
     ]
 }
