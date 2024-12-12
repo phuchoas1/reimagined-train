@@ -12,6 +12,7 @@
             "ques": {
                 "name": "Your name",
                 "blank": "What should i call your name?",
+                "type": "Name",
                 "tickbox": ""
             }
         },
@@ -19,6 +20,7 @@
             "ques": {
                 "name": "Your email",
                 "blank": "Let me contact you",
+                "type": "Email",
                 "tickbox": ""
             }
         },
@@ -26,6 +28,7 @@
             "ques": {
                 "name": "Your country",
                 "blank": "To let me know your culture, from that I can service my best to pleasure you and your audience",
+                "type": "Country",
                 "tickbox": ""
             }
         },
@@ -33,6 +36,7 @@
             "ques": {
                 "name": "Your company",
                 "blank": "I want to analysis your problem first before we call, from that I can make your project go to next level",
+                "type": "Company",
                 "tickbox": ""
             }
         },
@@ -40,6 +44,7 @@
             "ques": {
                 "name": "What service do you want to use",
                 "blank": "",
+                "type": "Service",
                 "tickbox": [
                     "Web developent",
                     "Motion Design"
@@ -49,13 +54,15 @@
         {
             "ques": {
                 "name": "Message",
-                "blank": "Hi wwan, I want you to do something for me..."
+                "blank": "Hi wwan, I want you to do something for me...",
+                "type": "Message"
             }
         }
     ],
     "Button": {
         "Submit": "Submit",
-        "alt": "Press this button that I can know what you want"
+        "alt": "Press this button that I can know what you want",
+        "type": "Submit"
     },
     "Description": {
         "title": "wwanname",
