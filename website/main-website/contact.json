@@ -1,18 +1,66 @@
 {
-    "Header": {
-        "Title": "wwan - Contact",
-        "Description": "Let's work together, Release your ideas to reality",
-        "Thumbnail": {
-            "url": "",
-            "alt": ""
+    "Contact" : {
+        "Header": {
+            "Title": "wwan - Contact",
+            "Description": "Let's work together, Release your ideas to reality",
+            "Thumbnail": {
+                "url": "",
+                "alt": ""
+            }
+        },
+        "Questions": [
+            {
+                "ques": {
+                    "name": "Your name",
+                    "blank": "What should i call your name?",
+                    "tickbox": ""
+                }
+            },
+            {
+                "ques": {
+                    "name": "Your email",
+                    "blank": "Let me contact you",
+                    "tickbox": ""
+                }
+            },
+            {
+                "ques": {
+                    "name": "Your country",
+                    "blank": "To let me know your culture, from that I can service my best to pleasure you and your audience",
+                    "tickbox": ""
+                }
+            },
+            {
+                "ques": {
+                    "name": "Your company",
+                    "blank": "I want to analysis your problem first before we call, from that I can make your project go to next level",
+                    "tickbox": ""
+                }
+            },
+            {
+                "ques": {
+                    "name": "What service do you want to use",
+                    "blank": "",
+                    "tickbox": [
+                        "Web developent",
+                        "Motion Design"
+                    ]
+                }
+            },
+            {
+                "ques": {
+                    "name": "Message",
+                    "blank": "Hi wwan, I want you to do something for me..."
+                }
+            }
+        ],
+        "Button": {
+            "Submit": "Submit",
+            "alt": "Press this button that I can know what you want"
+        },
+        "Description": {
+            "title": "wwanname",
+            "gmail": "wwandev@gmail.com"
         }
-    },
-    "Button": {
-        "Submit": "Submit",
-        "alt": "Press this button that I can know what you want"
-    },
-    "Description": {
-        "title": "wwanname",
-        "gmail": "wwandev@gmail.com"
     }
 }
