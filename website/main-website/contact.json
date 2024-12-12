@@ -64,8 +64,12 @@
         "alt": "Press this button that I can know what you want",
         "type": "Submit"
     },
-    "Description": {
-        "title": "wwanname",
-        "gmail": "wwandev@gmail.com"
-    }
+    "Description": [
+        {
+            "title": "wwanname"
+        },
+        {
+            "title": "wwandev@gmail.com"
+        }
+    ]
 }
