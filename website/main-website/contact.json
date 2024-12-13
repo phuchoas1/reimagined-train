@@ -34,7 +34,7 @@
           "ques": {
               "name": "Your country",
               "blank": "To let me know your culture, from that I can service my best to pleasure you and your audience",
-              "type": "country",
+              "type": "country-name",
               "id": "entry.59115627",
               "case": "SHORT_ANSWER",
               "pattern": "/^[a-zA-Z\\s]+$/",
