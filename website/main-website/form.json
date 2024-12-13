@@ -11,12 +11,14 @@
       }
     },
     {
+      "main": {
       "label": "Your email",
       "description": null,
       "type": "SHORT_ANSWER",
       "id": "43216559",
       "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
       "required": true
+      }
     },
     {
       "main": {
