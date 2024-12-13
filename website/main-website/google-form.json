@@ -22,7 +22,7 @@
       "required": true
     },
     {
-      "label": "What service do you want to use\n",
+      "label": "What service do you want to use?",
       "description": null,
       "type": "CHECKBOX",
       "id": "1145871475",
