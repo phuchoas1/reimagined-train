@@ -1,88 +1,94 @@
 {
-    "Header": {
-        "Title": "wwan - Contact",
-        "Description": "Let's work together, Release your ideas to reality",
-        "Thumbnail": {
-            "url": "",
-            "alt": ""
-        }
-    },
-    "Questions": [
-        {
-            "ques": {
-                "name": "Your name",
-                "blank": "What should i call your name?",
-                "type": "name",
-                "google": "entry.184273397",
-                "pattern": "/^[a-zA-Z\\s]+$/",
-                "tickbox": ""
-            }
-        },
-        {
-            "ques": {
-                "name": "Your email",
-                "blank": "Let me contact you",
-                "type": "email",
-                "google": "emailAddress",
-                "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
-                "tickbox": ""
-            }
-        },
-        {
-            "ques": {
-                "name": "Your country",
-                "blank": "To let me know your culture, from that I can service my best to pleasure you and your audience",
-                "type": "country",
-                "google": "entry.59115627",
-                "pattern": "/^[a-zA-Z\\s]+$/",
-                "tickbox": ""
-            }
-        },
-        {
-            "ques": {
-                "name": "Your company",
-                "blank": "I want to analysis your problem first before we call, from that I can make your project go to next level",
-                "type": "company",
-                "google": "entry.1365337126",
-                "pattern": "/^[a-zA-Z\\s]+$/",
-                "tickbox": ""
-            }
-        },
-        {
-            "ques": {
-                "name": "What service do you want to use",
-                "blank": "",
-                "type": "service",
-                "google": "entry.1145871475",
-                "pattern": "",
-                "tickbox": [
-                    "Web Developent",
-                    "Motion Design"
-                ]
-            }
-        },
-        {
-            "ques": {
-                "name": "Message",
-                "blank": "Hi wwan, I want you to do something for me...",
-                "type": "message",
-                "google": "entry.1081793922",
-                "pattern": "/^[a-zA-Z\\s]+$/",
-                "tickbox": ""
-            }
-        }
-    ],
-    "Button": {
-        "Submit": "Submit",
-        "alt": "Press this button that I can know what you want",
-        "type": "Submit"
-    },
-    "Description": [
-        {
-            "title": "wwanname"
-        },
-        {
-            "title": "wwandev@gmail.com"
-        }
-    ]
+  "Header": {
+      "Title": "wwan - Contact",
+      "Description": "Let's work together, Release your ideas to reality",
+      "Thumbnail": {
+          "url": "",
+          "alt": ""
+      }
+  },
+  "Questions": [
+      {
+          "ques": {
+              "name": "Your name",
+              "blank": "What should i call your name?",
+              "type": "name",
+              "id": "entry.184273397",
+              "case": "SHORT_ANSWER",
+              "pattern": "/^[a-zA-Z\\s]+$/",
+              "tickbox": ""
+          }
+      },
+      {
+          "ques": {
+              "name": "Your email",
+              "blank": "Let me contact you",
+              "type": "email",
+              "id": "emailAddress",
+              "case": "LONG_ANSWER",
+              "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
+              "tickbox": ""
+          }
+      },
+      {
+          "ques": {
+              "name": "Your country",
+              "blank": "To let me know your culture, from that I can service my best to pleasure you and your audience",
+              "type": "country",
+              "id": "entry.59115627",
+              "case": "SHORT_ANSWER",
+              "pattern": "/^[a-zA-Z\\s]+$/",
+              "tickbox": ""
+          }
+      },
+      {
+          "ques": {
+              "name": "Your company",
+              "blank": "I want to analysis your problem first before we call, from that I can make your project go to next level",
+              "type": "company",
+              "id": "entry.1365337126",
+              "case": "SHORT_ANSWER",
+              "pattern": "/^[a-zA-Z\\s]+$/",
+              "tickbox": ""
+          }
+      },
+      {
+          "ques": {
+              "name": "What service do you want to use",
+              "blank": "",
+              "type": "service",
+              "id": "entry.1145871475",
+              "pattern": "",
+              "case": "RADIO",
+              "tickbox": [
+                  "Web Developent",
+                  "Motion Design"
+              ]
+          }
+      },
+      {
+          "ques": {
+              "name": "Message",
+              "blank": "Hi wwan, I want you to do something for me...",
+              "type": "message",
+              "id": "entry.1081793922",
+              "case": "LONG_ANSWER",
+              "pattern": "/^[a-zA-Z\\s]+$/",
+              "tickbox": ""
+          }
+      }
+  ],
+  "Button": {
+      "Submit": "Submit",
+      "alt": "Press this button that I can know what you want",
+      "type": "Submit"
+  },
+  "Description": [
+      {
+          "title": "wwanname"
+      },
+      {
+          "title": "wwandev@gmail.com"
+      }
+  ]
 }
