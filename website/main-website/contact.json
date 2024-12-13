@@ -23,7 +23,7 @@
                 "name": "Your email",
                 "blank": "Let me contact you",
                 "type": "Email",
-                "google": "entry.59115627",
+                "google": "entry.572400050",
                 "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
                 "tickbox": ""
             }
@@ -32,7 +32,7 @@
             "ques": {
                 "name": "Your country",
                 "blank": "To let me know your culture, from that I can service my best to pleasure you and your audience",
-                "google": "entry.1365337126",
+                "google": "entry.59115627",
                 "type": "Country",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
@@ -42,7 +42,7 @@
             "ques": {
                 "name": "Your company",
                 "blank": "I want to analysis your problem first before we call, from that I can make your project go to next level",
-                "google": "entry.1081793922",
+                "google": "entry.1365337126",
                 "type": "Company",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
@@ -53,7 +53,7 @@
                 "name": "What service do you want to use",
                 "blank": "",
                 "type": "Service",
-                "google": "entry.572400050",
+                "google": "entry.1145871475",
                 "pattern": "",
                 "tickbox": [
                     "Web developent",
@@ -65,7 +65,7 @@
             "ques": {
                 "name": "Message",
                 "blank": "Hi wwan, I want you to do something for me...",
-                "google": "entry.1145871475",
+                "google": "entry.1081793922",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "type": "Message"
             }
