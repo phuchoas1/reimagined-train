@@ -12,7 +12,7 @@
             "ques": {
                 "name": "Your name",
                 "blank": "What should i call your name?",
-                "type": "Name",
+                "type": "text",
                 "google": "entry.184273397",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
@@ -22,7 +22,7 @@
             "ques": {
                 "name": "Your email",
                 "blank": "Let me contact you",
-                "type": "Email",
+                "type": "email",
                 "google": "emailAddress",
                 "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
                 "tickbox": ""
@@ -32,8 +32,8 @@
             "ques": {
                 "name": "Your country",
                 "blank": "To let me know your culture, from that I can service my best to pleasure you and your audience",
+                "type": "text",
                 "google": "entry.59115627",
-                "type": "Country",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
             }
@@ -42,8 +42,8 @@
             "ques": {
                 "name": "Your company",
                 "blank": "I want to analysis your problem first before we call, from that I can make your project go to next level",
+                "type": "text",
                 "google": "entry.1365337126",
-                "type": "Company",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
             }
@@ -52,7 +52,7 @@
             "ques": {
                 "name": "What service do you want to use",
                 "blank": "",
-                "type": "Service",
+                "type": "hidden",
                 "google": "entry.1145871475",
                 "pattern": "",
                 "tickbox": [
@@ -65,9 +65,10 @@
             "ques": {
                 "name": "Message",
                 "blank": "Hi wwan, I want you to do something for me...",
+                "type": "text",
                 "google": "entry.1081793922",
                 "pattern": "/^[a-zA-Z\\s]+$/",
-                "type": "Message"
+                "tickbox": ""
             }
         }
     ],
