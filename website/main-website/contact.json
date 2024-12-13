@@ -12,7 +12,7 @@
             "ques": {
                 "name": "Your name",
                 "blank": "What should i call your name?",
-                "type": "text",
+                "type": "name",
                 "google": "entry.184273397",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
@@ -32,7 +32,7 @@
             "ques": {
                 "name": "Your country",
                 "blank": "To let me know your culture, from that I can service my best to pleasure you and your audience",
-                "type": "text",
+                "type": "country",
                 "google": "entry.59115627",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
@@ -42,7 +42,7 @@
             "ques": {
                 "name": "Your company",
                 "blank": "I want to analysis your problem first before we call, from that I can make your project go to next level",
-                "type": "text",
+                "type": "company",
                 "google": "entry.1365337126",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
@@ -52,7 +52,7 @@
             "ques": {
                 "name": "What service do you want to use",
                 "blank": "",
-                "type": "hidden",
+                "type": "service",
                 "google": "entry.1145871475",
                 "pattern": "",
                 "tickbox": [
@@ -65,7 +65,7 @@
             "ques": {
                 "name": "Message",
                 "blank": "Hi wwan, I want you to do something for me...",
-                "type": "text",
+                "type": "message",
                 "google": "entry.1081793922",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
