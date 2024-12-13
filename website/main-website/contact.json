@@ -23,7 +23,7 @@
                 "name": "Your email",
                 "blank": "Let me contact you",
                 "type": "Email",
-                "google": "entry.572400050",
+                "google": "emailAddress",
                 "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
                 "tickbox": ""
             }
