@@ -4,34 +4,30 @@
   "fbzx": "-6945565996751322006",
   "action": "e/1FAIpQLSeV201CdphSTqOAxxF9m0yDeQEJsZlY9iUoDDMAUXJEatTvpQ",
   "title": "Submit to wwan",
-  "description": "For hiring me to your company/agency/studio, please send your message to my email\nOur email : wwandev@gmail.com",
+  "description": "For hiring me to your company/agency/studio, please send your message to my email. Our email : wwandev@gmail.com",
   "fields": [
     {
       "label": "Your name",
       "description": null,
       "type": "SHORT_ANSWER",
       "id": "184273397",
-      "pattern": "/^[a-zA-Z\\s]+$/",
       "required": true
     }, {
       "label": "Your email",
       "description": null,
       "type": "SHORT_ANSWER",
       "id": "43216559",
-      "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
       "required": true
     }, {
       "label": "Your country",
       "description": null,
       "type": "SHORT_ANSWER",
       "id": "59115627",
-      "pattern": "/^[a-zA-Z\\s]+$/",
       "required": true
     }, {
       "label": "Your company",
       "description": null,
       "type": "SHORT_ANSWER",
-      "pattern": "/^[a-zA-Z\\s]+$/",
       "id": "1365337126",
       "required": true
     }, {
@@ -49,7 +45,6 @@
       "label": "Message",
       "description": null,
       "type": "LONG_ANSWER",
-      "pattern": "/^[a-zA-Z\\s]+$/",
       "id": "1081793922",
       "required": true
     }
