@@ -6,8 +6,17 @@
         "description": null,
         "type": "SHORT_ANSWER",
         "id": "184273397",
+        "pattern": "/^[a-zA-Z\\s]+$/",
         "required": true
       }
+    },
+    {
+      "label": "Your email",
+      "description": null,
+      "type": "SHORT_ANSWER",
+      "id": "43216559",
+      "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
+      "required": true
     },
     {
       "main": {
@@ -15,6 +24,7 @@
         "description": null,
         "type": "SHORT_ANSWER",
         "id": "59115627",
+        "pattern": "/^[a-zA-Z\\s]+$/",
         "required": true
       }
     },
@@ -24,6 +34,7 @@
         "description": null,
         "type": "SHORT_ANSWER",
         "id": "1365337126",
+        "pattern": "/^[a-zA-Z\\s]+$/",
         "required": true
       }
     },
@@ -33,8 +44,10 @@
         "description": null,
         "type": "CHECKBOX",
         "id": "1145871475",
+        "pattern": "",
         "options": [
-          "Web Development", "Motion Design"
+          "Web Development",
+          "Motion Design"
         ],
         "required": true
       }
@@ -45,6 +58,7 @@
         "description": null,
         "type": "LONG_ANSWER",
         "id": "1081793922",
+        "pattern": "/^[a-zA-Z\\s]+$/",
         "required": true
       }
     }
