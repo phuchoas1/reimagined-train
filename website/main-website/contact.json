@@ -15,6 +15,7 @@
                 "type": "name",
                 "id": "entry.184273397",
                 "case": "SHORT_ANSWER",
+                "typecase": "text",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
             }
@@ -26,6 +27,7 @@
                 "type": "email",
                 "id": "entry.43216559",
                 "case": "SHORT_ANSWER",
+                "typecase": "text",
                 "pattern": "^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
                 "tickbox": ""
             }
@@ -37,6 +39,7 @@
                 "type": "country",
                 "id": "entry.59115627",
                 "case": "SHORT_ANSWER",
+                "typecase": "text",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
             }
@@ -48,6 +51,7 @@
                 "type": "company",
                 "id": "entry.1365337126",
                 "case": "SHORT_ANSWER",
+                "typecase": "text",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
             }
@@ -60,6 +64,7 @@
                 "id": "entry.1145871475",
                 "pattern": "",
                 "case": "RADIO",
+                "typecase": "radio",
                 "tickbox": [
                     "Web Developent",
                     "Motion Design"
@@ -73,6 +78,7 @@
                 "type": "message",
                 "id": "entry.1081793922",
                 "case": "LONG_ANSWER",
+                "typecase": "text",
                 "pattern": "/^[a-zA-Z\\s]+$/",
                 "tickbox": ""
             }
