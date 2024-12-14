@@ -60,7 +60,7 @@
             "ques": {
                 "name": "What service do you want to use",
                 "blank": "",
-                "type": "service",
+                "type": "options",
                 "id": "entry.1145871475",
                 "pattern": "",
                 "case": "RADIO",
