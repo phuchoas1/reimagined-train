@@ -136,7 +136,7 @@
         {
             "album": {
                 "url": "",
-                "lazy": "",
+                "lazy": "https://lh3.googleusercontent.com/pw/AP1GczNdOoagr0rQNJ1xeq902m-jCJ5xDeShVTWiLKEgq4GiJ2Nl3a8DMAxgZvYUvOwK4hsipXxL5n98n5SZEjglOcIoCBq0EE-d6Xsddug9LkIruokx2BftCtXVXF3tLjdLtWn9YwiWxLhpE_0KpDr1qOI=w256-h256-s-no?authuser=0",
                 "title": "Radio\u00A0Ra\u00A0Ga",
                 "country": "Live Aid",
                 "client": "Myself"
@@ -145,73 +145,10 @@
         {
             "album": {
                 "url": "",
-                "lazy": "",
+                "lazy": "https://i.ytimg.com/vi/hmUYIXu-wdE/maxresdefault.jpg",
                 "title": "In\u00A0the\u00A0Future",
                 "country": "Everywhere",
                 "client": "Everything"
-            }
-        },
-        {
-            "album": {
-                "url": "",
-                "lazy": "",
-                "title": "Let's\u00A0work\u00A0together",
-                "country": "Together",
-                "client": "All at once"
-            }
-        },
-        {
-            "album": {
-                "url": "",
-                "lazy": "",
-                "title": "Samsung\u00A0A54",
-                "country": "Korean",
-                "client": "My phone"
-            }
-        },
-        {
-            "album": {
-                "url": "",
-                "lazy": "",
-                "title": "My\u00A0final\u00A0project",
-                "country": "My life",
-                "client": "For everyone"
-            }
-        },
-        {
-            "album": {
-                "url": "",
-                "lazy": "",
-                "title": "Creating\u00A0Video\u00A0Birthday",
-                "country": "for My Younger Brother",
-                "client": ""
-            }
-        },
-        {
-            "album": {
-                "url": "",
-                "lazy": "",
-                "title": "Hiep\u00A0Hoi",
-                "country": "Nha",
-                "client": "Moi Nguoi Moi Thu"
-            }
-        },
-        {
-            "album": {
-                "url": "",
-                "lazy": "",
-                "title": "Hiep\u00A0Hoi\u00A0Ngu",
-                "country": "Hiep Hoi Sieu Anh Hung",
-                "client": "Hiep Hoi Sung"
-            }
-        },
-        {
-            "album": {
-                "url": "",
-                "lazy": "",
-                "title": "Hiep\u00A0Hoi\u00A0Cac\u00A0Con",
-                "country": "Hiep Hoi Ban",
-                "client": "Hiep Hoi Lang Quen"
             }
         }
     ]
