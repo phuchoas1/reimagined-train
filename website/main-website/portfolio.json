@@ -135,7 +135,8 @@
     "Allalbums": [
         {
             "album": {
-                "url": "",
+                "url": "https://vimeo.com/1048984535",
+                "thumbnail": "https://lh3.googleusercontent.com/pw/AP1GczPyhf8BFfGtMkExYfd2YoqTQXODzj2bD0OBJT0OMDwlvJ6Tn2gLOnZL64h8h6VeKJ31z2vUereOBJ59KrOKq_LUpEYfBJtYkh0VQLo_Q6Ev7uI0TPTa93sCzz-l2gnyT4cqCFwNQD_cOaAoNe_j_KI=w659-h925-s-no?authuser=0",
                 "lazy": "https://lh3.googleusercontent.com/pw/AP1GczNdOoagr0rQNJ1xeq902m-jCJ5xDeShVTWiLKEgq4GiJ2Nl3a8DMAxgZvYUvOwK4hsipXxL5n98n5SZEjglOcIoCBq0EE-d6Xsddug9LkIruokx2BftCtXVXF3tLjdLtWn9YwiWxLhpE_0KpDr1qOI=w256-h256-s-no?authuser=0",
                 "title": "Radio\u00A0Ra\u00A0Ga",
                 "country": "Live Aid",
@@ -145,10 +146,11 @@
         {
             "album": {
                 "url": "",
+                "thumbnail": "",
                 "lazy": "https://i.ytimg.com/vi/hmUYIXu-wdE/maxresdefault.jpg",
-                "title": "In\u00A0the\u00A0Future",
-                "country": "Everywhere",
-                "client": "Everything"
+                "title": "My\u00A0Website's\u00A0Blog",
+                "country": "Community",
+                "client": "Myself"
             }
         }
     ]
